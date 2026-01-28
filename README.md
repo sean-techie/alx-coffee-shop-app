@@ -8,6 +8,12 @@ The goal of the challenge is to accurately translate a provided UI design into a
 ### Initial Setup
 I began by creating a GitHub repository named **alx-coffee-shop-app**, following the required naming convention.
 
+The repository was then cloned locally using the terminal:
+
+```bash
+git clone https://github.com/sean-techie/alx-coffee-shop-app.git
+cd alx-coffee-shop-app.
+
 The project was initialized using **Expo with TypeScript**, and **NativeWindCSS** was configured to enable Tailwind-style utility classes for styling React Native components.
 
 ### Assets & Resources
