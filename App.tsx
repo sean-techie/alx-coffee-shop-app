@@ -2,8 +2,10 @@ import { View, Text } from "react-native";
 
 export default function App() {
   return (
-    <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
-      <Text>Coffee Shop App </Text>
+    <View className="flex-1 items-center justify-center bg-white">
+      <Text className="text-2xl font-bold text-brown-500">
+        Coffee Shop ☕
+      </Text>
     </View>
   );
 }
